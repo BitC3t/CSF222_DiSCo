@@ -1,0 +1,54 @@
+{
+    "Arnab Paul" : {
+        "id": 2,
+        "group": 0.5,
+        "courses": {
+            "FD_CDC": {
+                "1": "OOP",
+                "2": "DSA",
+                "3": "PDS",
+                "4": "ASM"
+            },
+            "FD_Electives": {
+                "1": "OOP_e",
+                "2": "DSA_e",
+                "3": "PDS_e",
+                "4": "ASM_e"
+            },
+            "HD_CDC": {
+                "1": "ML",
+                "2": "RL"
+            },
+            "HD_Electives": {
+                "1": "ML_e",
+                "2": "RL_e"
+            }
+        }
+    },
+    "Druva D" : {
+        "id": 3,
+        "group": 1,
+        "courses": {
+            "FD_CDC": {
+                "1": "OOP",
+                "2": "DSA",
+                "3": "PDS",
+                "4": "ASM"
+            },
+            "FD_Electives": {
+                "1": "OOP_e",
+                "2": "DSA_e",
+                "3": "PDS_e",
+                "4": "ASM_e"
+            },
+            "HD_CDC": {
+                "1": "ML",
+                "2": "RL"
+            },
+            "HD_Electives": {
+                "1": "ML_e",
+                "2": "RL_e"
+            }
+        }
+    }
+}
