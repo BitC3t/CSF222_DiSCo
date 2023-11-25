@@ -1,53 +1,261 @@
 {
-    "Arnab Paul" : {
-        "id": 2,
-        "group": 0.5,
+    "Professor 0": {
+        "id": "3555e27b-5cd9-4129-b27c-173c6d188490",
+        "group": 1.5,
         "courses": {
             "FD_CDC": {
-                "1": "OOP",
-                "2": "DSA",
-                "3": "PDS",
-                "4": "ASM"
+                "1": "(FD-CDC) CS FP76",
+                "2": "(FD-CDC) CS FP88",
+                "3": "(FD-CDC) CS FP01",
+                "4": "(FD-CDC) CS FP52"
             },
             "FD_Electives": {
-                "1": "OOP_e",
-                "2": "DSA_e",
-                "3": "PDS_e",
-                "4": "ASM_e"
+                "1": "(FD-E) CS FQ27",
+                "2": "(FD-E) CS FQ40",
+                "3": "(FD-E) CS FQ20",
+                "4": "(FD-E) CS FQ59"
             },
             "HD_CDC": {
-                "1": "ML",
-                "2": "RL"
+                "1": "(HD-CDC) CS FR83",
+                "2": "(HD-CDC) CS FR64"
             },
             "HD_Electives": {
-                "1": "ML_e",
-                "2": "RL_e"
+                "1": "(HD-E) CS FS53",
+                "2": "(HD-E) CS FS93"
             }
         }
     },
-    "Druva D" : {
-        "id": 3,
+    "Professor 1": {
+        "id": "3c984c93-d75d-474a-a923-bdc1361dc907",
         "group": 1,
         "courses": {
             "FD_CDC": {
-                "1": "OOP",
-                "2": "DSA",
-                "3": "PDS",
-                "4": "ASM"
+                "1": "(FD-CDC) CS FP33",
+                "2": "(FD-CDC) CS FP42",
+                "3": "(FD-CDC) CS FP44",
+                "4": "(FD-CDC) CS FP79"
             },
             "FD_Electives": {
-                "1": "OOP_e",
-                "2": "DSA_e",
-                "3": "PDS_e",
-                "4": "ASM_e"
+                "1": "(FD-E) CS FQ73",
+                "2": "(FD-E) CS FQ76",
+                "3": "(FD-E) CS FQ67",
+                "4": "(FD-E) CS FQ54"
             },
             "HD_CDC": {
-                "1": "ML",
-                "2": "RL"
+                "1": "(HD-CDC) CS FR51",
+                "2": "(HD-CDC) CS FR78"
             },
             "HD_Electives": {
-                "1": "ML_e",
-                "2": "RL_e"
+                "1": "(HD-E) CS FS25",
+                "2": "(HD-E) CS FS02"
+            }
+        }
+    },
+    "Professor 2": {
+        "id": "8fe650c3-1eb4-415b-98a1-6b080b4816ca",
+        "group": 1.5,
+        "courses": {
+            "FD_CDC": {
+                "1": "(FD-CDC) CS FP54",
+                "2": "(FD-CDC) CS FP05",
+                "3": "(FD-CDC) CS FP70",
+                "4": "(FD-CDC) CS FP85"
+            },
+            "FD_Electives": {
+                "1": "(FD-E) CS FQ12",
+                "2": "(FD-E) CS FQ68",
+                "3": "(FD-E) CS FQ65",
+                "4": "(FD-E) CS FQ46"
+            },
+            "HD_CDC": {
+                "1": "(HD-CDC) CS FR84",
+                "2": "(HD-CDC) CS FR92"
+            },
+            "HD_Electives": {
+                "1": "(HD-E) CS FS81",
+                "2": "(HD-E) CS FS78"
+            }
+        }
+    },
+    "Professor 3": {
+        "id": "a2ef4421-265b-4316-b52c-ae48247bb28d",
+        "group": 1,
+        "courses": {
+            "FD_CDC": {
+                "1": "(FD-CDC) CS FP94",
+                "2": "(FD-CDC) CS FP21",
+                "3": "(FD-CDC) CS FP60",
+                "4": "(FD-CDC) CS FP62"
+            },
+            "FD_Electives": {
+                "1": "(FD-E) CS FQ97",
+                "2": "(FD-E) CS FQ04",
+                "3": "(FD-E) CS FQ33",
+                "4": "(FD-E) CS FQ52"
+            },
+            "HD_CDC": {
+                "1": "(HD-CDC) CS FR64",
+                "2": "(HD-CDC) CS FR20"
+            },
+            "HD_Electives": {
+                "1": "(HD-E) CS FS62",
+                "2": "(HD-E) CS FS19"
+            }
+        }
+    },
+    "Professor 4": {
+        "id": "218908c3-73c6-4a44-bc53-c39aeaaa2898",
+        "group": 1,
+        "courses": {
+            "FD_CDC": {
+                "1": "(FD-CDC) CS FP74",
+                "2": "(FD-CDC) CS FP61",
+                "3": "(FD-CDC) CS FP60",
+                "4": "(FD-CDC) CS FP56"
+            },
+            "FD_Electives": {
+                "1": "(FD-E) CS FQ00",
+                "2": "(FD-E) CS FQ58",
+                "3": "(FD-E) CS FQ76",
+                "4": "(FD-E) CS FQ59"
+            },
+            "HD_CDC": {
+                "1": "(HD-CDC) CS FR03",
+                "2": "(HD-CDC) CS FR69"
+            },
+            "HD_Electives": {
+                "1": "(HD-E) CS FS77",
+                "2": "(HD-E) CS FS16"
+            }
+        }
+    },
+    "Professor 5": {
+        "id": "5b879058-e2e6-4d1e-ab39-4231105512fb",
+        "group": 0.5,
+        "courses": {
+            "FD_CDC": {
+                "1": "(FD-CDC) CS FP92",
+                "2": "(FD-CDC) CS FP40",
+                "3": "(FD-CDC) CS FP74",
+                "4": "(FD-CDC) CS FP96"
+            },
+            "FD_Electives": {
+                "1": "(FD-E) CS FQ33",
+                "2": "(FD-E) CS FQ76",
+                "3": "(FD-E) CS FQ36",
+                "4": "(FD-E) CS FQ05"
+            },
+            "HD_CDC": {
+                "1": "(HD-CDC) CS FR42",
+                "2": "(HD-CDC) CS FR14"
+            },
+            "HD_Electives": {
+                "1": "(HD-E) CS FS63",
+                "2": "(HD-E) CS FS90"
+            }
+        }
+    },
+    "Professor 6": {
+        "id": "1f1bda9e-c97e-4f89-beb3-1a7b4063ecdb",
+        "group": 1.5,
+        "courses": {
+            "FD_CDC": {
+                "1": "(FD-CDC) CS FP71",
+                "2": "(FD-CDC) CS FP41",
+                "3": "(FD-CDC) CS FP60",
+                "4": "(FD-CDC) CS FP49"
+            },
+            "FD_Electives": {
+                "1": "(FD-E) CS FQ39",
+                "2": "(FD-E) CS FQ07",
+                "3": "(FD-E) CS FQ33",
+                "4": "(FD-E) CS FQ82"
+            },
+            "HD_CDC": {
+                "1": "(HD-CDC) CS FR43",
+                "2": "(HD-CDC) CS FR82"
+            },
+            "HD_Electives": {
+                "1": "(HD-E) CS FS57",
+                "2": "(HD-E) CS FS20"
+            }
+        }
+    },
+    "Professor 7": {
+        "id": "cb681c27-72d6-4f68-8ff2-4b11d1dd4f7e",
+        "group": 1.5,
+        "courses": {
+            "FD_CDC": {
+                "1": "(FD-CDC) CS FP33",
+                "2": "(FD-CDC) CS FP32",
+                "3": "(FD-CDC) CS FP21",
+                "4": "(FD-CDC) CS FP27"
+            },
+            "FD_Electives": {
+                "1": "(FD-E) CS FQ79",
+                "2": "(FD-E) CS FQ39",
+                "3": "(FD-E) CS FQ86",
+                "4": "(FD-E) CS FQ42"
+            },
+            "HD_CDC": {
+                "1": "(HD-CDC) CS FR65",
+                "2": "(HD-CDC) CS FR34"
+            },
+            "HD_Electives": {
+                "1": "(HD-E) CS FS98",
+                "2": "(HD-E) CS FS52"
+            }
+        }
+    },
+    "Professor 8": {
+        "id": "68b15242-886c-4d32-b60f-a61fc9c01cdc",
+        "group": 0.5,
+        "courses": {
+            "FD_CDC": {
+                "1": "(FD-CDC) CS FP76",
+                "2": "(FD-CDC) CS FP47",
+                "3": "(FD-CDC) CS FP00",
+                "4": "(FD-CDC) CS FP07"
+            },
+            "FD_Electives": {
+                "1": "(FD-E) CS FQ74",
+                "2": "(FD-E) CS FQ64",
+                "3": "(FD-E) CS FQ83",
+                "4": "(FD-E) CS FQ23"
+            },
+            "HD_CDC": {
+                "1": "(HD-CDC) CS FR91",
+                "2": "(HD-CDC) CS FR48"
+            },
+            "HD_Electives": {
+                "1": "(HD-E) CS FS81",
+                "2": "(HD-E) CS FS48"
+            }
+        }
+    },
+    "Professor 9": {
+        "id": "04654a39-3f93-4819-9b60-84d68d591d72",
+        "group": 1.5,
+        "courses": {
+            "FD_CDC": {
+                "1": "(FD-CDC) CS FP61",
+                "2": "(FD-CDC) CS FP38",
+                "3": "(FD-CDC) CS FP75",
+                "4": "(FD-CDC) CS FP43"
+            },
+            "FD_Electives": {
+                "1": "(FD-E) CS FQ81",
+                "2": "(FD-E) CS FQ62",
+                "3": "(FD-E) CS FQ36",
+                "4": "(FD-E) CS FQ09"
+            },
+            "HD_CDC": {
+                "1": "(HD-CDC) CS FR94",
+                "2": "(HD-CDC) CS FR77"
+            },
+            "HD_Electives": {
+                "1": "(HD-E) CS FS28",
+                "2": "(HD-E) CS FS78"
             }
         }
     }
