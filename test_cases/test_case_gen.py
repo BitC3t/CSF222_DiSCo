@@ -83,7 +83,10 @@ for prof in professors:
                         "group": randomly_group()[0], 
                         "courses": courses}
 
-json_data = json.dumps(new_data, indent = 4)
-print(json_data)
+with open('../input.json', 'w') as json_file:
+    json.dump(new_data, json_file, indent=4)
+
+print('Test Case Generated and Auto Saved!')
+
 
 
