@@ -59,10 +59,10 @@ for prof in professors:
     HD_e = randomly_pick(hd_e, hd_eout)
 
     courses = {
-        "FD_CDC": {"1": FD_c[0], "2": FD_c[1], "3": FD_c[2], "4": FD_c[3]},
-        "FD_Electives": {"1": FD_e[0], "2": FD_e[1], "3": FD_e[2], "4": FD_e[3]},
-        "HD_CDC": {"1": HD_c[0], "2": HD_c[1]},
-        "HD_Electives": {"1": HD_e[0], "2": HD_e[1]},
+        "FD_CDC": {str(i): FD_c[i] for i in range(fd_cout)},
+        "FD_Electives": {str(i): FD_e[i] for i in range(fd_eout)},
+        "HD_CDC": {str(i): HD_c[i] for i in range(hd_cout)},
+        "HD_Electives": {str(i): HD_e[i] for i in range(hd_eout)},
     }
 
     new_data[prof] = {
