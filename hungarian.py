@@ -113,7 +113,7 @@ for prof, data in input["prof_data"].items():
         for i, course in enumerate(courses):
             prof_nodes = labels[prof]
             course_nodes = labels[course]
-            G.add_edges_from(itertools.product(prof_nodes, course_nodes))
+            G.add_edges_from(itertools.product(prof_nodes, course_nodes), weight=4 - i)
 
 # print(G.edges())
 
