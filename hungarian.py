@@ -26,28 +26,31 @@ G.add_nodes_from(
     [(i, prof) for i, prof in enumerate(input["prof_data"].keys())],
     bipartite=0,
 )
+print(G.nodes())
 
 G.add_nodes_from(
     [
         (i, prof)
         for i, (prof, data) in enumerate(
-            input["prof_data"].items(), start=len(input["prof_data"])
+            input["prof_data"].items(), start=len(input["prof_data"]) - 1
         )
-        if data[1] == 1
+        if data[1] in (1, 1.5)
     ],
     bipartite=0,
 )
+print(G.nodes())
 
 G.add_nodes_from(
     [
         (i, prof)
         for i, (prof, data) in enumerate(
-            input["prof_data"].items(), start=len(input["prof_data"])
+            input["prof_data"].items(), start=len(input["prof_data"]) * 2
         )
         if data[1] == 1.5
     ],
     bipartite=0,
 )
+print(G.nodes())
 # Multiply by two because of two slots
 G.add_nodes_from(
     [
