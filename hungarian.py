@@ -101,7 +101,6 @@ if profs != courses:
 
 labels = {}
 for node in G.nodes():
-    print(node)
     if node[1] in labels:
         labels[node[1]].append(node)
     else:
@@ -118,7 +117,7 @@ for prof, data in input["prof_data"].items():
 # print(G.edges())
 
 
-def all_maximal_matchings(T):
+"""def all_maximal_matchings(T):
     maximal_matchings = []
     partial_matchings = [{(u, v)} for (u, v) in T.edges()]
 
@@ -142,25 +141,33 @@ def all_maximal_matchings(T):
         if not extended and m not in maximal_matchings:
             maximal_matchings.append(m)
 
-    return maximal_matchings
+    return maximal_matchings"""
 
 
 from matplotlib import pyplot as plt
 
 import time
+import py_bipartite_matching as pbm
 
 start = time.time()
+file_path = "output.txt"
+cout = 0
+
+with open(file_path, 'w') as file:
+    for matching in pbm.enum_perfect_matchings(G):
+        cout += 1
+        file.write(str(matching))
+
+print("completed")
+print(str(cout) + " possible solutions")
+
+    
+
 # matches = all_maximal_matchings(G)
-# matches = nx.max_weight_matching(G, maxcardinality=True)
-matches = nx.bipartite.maximum_matching(G)
-print(time.time() - start)
-print(matches)
+"""matches = nx.max_weight_matching(G, maxcardinality=True)
+# matches = nx.max_weight_matching(G)
 matches = [matches]
-g_match2 = nx.Graph()
 for match2 in matches:
-    for kk, vv in match2:
-        g_match2.add_edge(kk, vv)
-    match2 = nx.max_weight_matching(G, maxcardinality=True)
     g_match = nx.DiGraph()
     print("edges")
     for edge in match2:
@@ -168,15 +175,14 @@ for match2 in matches:
         course = edge[0][1]
         print(prof, course)
         g_match.add_edge(prof, course)
-    print(*g_match.edges(), sep="\n")
     nx.draw(g_match, with_labels=True)
-    # nx.draw(G, with_labels=True)
     plt.show()
+
     import json
 
     with open("output.json", "w") as f:
         json.dump(graph_to_json(g_match), f, indent=4)
-    print("done")
+    print("done")"""
 
 
 # nx.draw(G, with_labels=True)
