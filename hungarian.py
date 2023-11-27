@@ -8,6 +8,7 @@ import networkx as nx
 import itertools
 
 import input_graph
+from sorter import sort
 
 
 def plotGraph(graph, ax, title):
@@ -144,8 +145,6 @@ for prof, data in input["prof_data"].items():
     return maximal_matchings"""
 
 
-from matplotlib import pyplot as plt
-
 import time
 import py_bipartite_matching as pbm
 
@@ -153,15 +152,48 @@ start = time.time()
 file_path = "output.txt"
 cout = 0
 
-with open(file_path, 'w') as file:
+print(*G.edges(), sep="\n")
+
+print("starting")
+matches = []
+with open(file_path, "w") as file:
     for matching in pbm.enum_perfect_matchings(G):
         cout += 1
+        matches.append(matching)
         file.write(str(matching))
 
 print("completed")
 print(str(cout) + " possible solutions")
+print(time.time() - start)
 
-    
+valid_matches = list()
+hash_list = set()
+for match in matches:
+    vm = {}
+    for key, value in match.items():
+        prof = key[1]
+        course = value[1]
+        if prof in vm:
+            vm[prof].add(course)
+        else:
+            vm[prof] = set()
+            vm[prof].add(course)
+    for key, value in vm.items():
+        vm[key] = sorted(value)
+    import json
+    from hashlib import sha256
+
+    ha = sha256(json.dumps(vm).encode())
+    if ha.digest() in hash_list:
+        continue
+    hash_list.add(ha.digest())
+    valid_matches.append(vm)
+# print(hash_list)
+print(len(valid_matches))
+# print(*valid_matches, sep="\n")
+
+best_matches = sort(valid_matches, input["prof_data"])
+print(best_matches)
 
 # matches = all_maximal_matchings(G)
 """matches = nx.max_weight_matching(G, maxcardinality=True)
