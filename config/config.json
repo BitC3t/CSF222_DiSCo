@@ -1,8 +1,8 @@
 {
-    "professors": 6,
+    "professors": 10,
     "fd_c": 4,
-    "fd_e": 1,
-    "hd_c": 1,
-    "hd_e": 0,
-    "total": 6
+    "fd_e": 4,
+    "hd_c": 2,
+    "hd_e": 2,
+    "total": 10
 }
