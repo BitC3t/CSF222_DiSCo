@@ -24,11 +24,11 @@ for assignment in all_possible_assignments:
     # Initialize the course loads
     course_loads = {prof: 0 for prof in prof_groups}
 
-    # Assign courses to professors
+    
     for prof, course in zip(prof_groups, assignment):
         course_loads[prof] += 0.5  # Each course is split into 0.5
 
-    # Check if the assignment is valid
+    
     if all(0 <= course_loads[prof] <= prof_groups[prof] for prof in prof_groups):
         count += 1
         print(f"Valid assignment: {dict(zip(prof_groups, assignment))}")
