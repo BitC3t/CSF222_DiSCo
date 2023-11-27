@@ -6,7 +6,6 @@ hungarian.py
 """
 import networkx as nx
 import itertools
-from alive_progress import alive_bar
 import time
 import json
 
