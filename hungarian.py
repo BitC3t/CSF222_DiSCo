@@ -8,9 +8,10 @@ import networkx as nx
 import itertools
 import time
 import json
-
 import input_graph
+import py_bipartite_matching as pbm
 from sorter import sort
+from hashlib import sha256
 
 
 def plotGraph(graph, ax, title):
@@ -51,7 +52,7 @@ def graph_to_json(G):
 
 G = nx.Graph()
 
-# Adding all professors
+
 G.add_nodes_from(
     [(i, prof) for i, prof in enumerate(input["prof_data"].keys())],
     bipartite=0,
@@ -79,7 +80,7 @@ G.add_nodes_from(
     bipartite=0,
 )
 profs = len(G.nodes())
-# Multiply by two because of two slots
+
 G.add_nodes_from(
     [
         (i, x)
@@ -99,8 +100,7 @@ G.add_nodes_from(
 )
 courses = len(G.nodes()) - profs
 
-"""if profs != courses:
-    raise Exception("Professors and courses are not equal")"""
+
 
 labels = {}
 for node in G.nodes():
@@ -117,34 +117,10 @@ for prof, data in input["prof_data"].items():
             course_nodes = labels[course]
             G.add_edges_from(itertools.product(prof_nodes, course_nodes), weight=4 - i)
 
-# print(G.edges())
 
 
-"""def all_maximal_matchings(T):
-    maximal_matchings = []
-    partial_matchings = [{(u, v)} for (u, v) in T.edges()]
 
-    i = 0
-    while partial_matchings:
-        i += 1
-        print(i)
-        # get current partial matching
-        m = partial_matchings.pop()
-        nodes_m = set(itertools.chain(*m))
 
-        extended = False
-        for u, v in T.edges():
-            if u not in nodes_m and v not in nodes_m:
-                extended = True
-                # copy m, extend it and add it to the list of partial matchings
-                m_extended = set(m)
-                m_extended.add((u, v))
-                partial_matchings.append(m_extended)
-
-        if not extended and m not in maximal_matchings:
-            maximal_matchings.append(m)
-
-    return maximal_matchings"""
 
 
 solution = {}
@@ -158,8 +134,6 @@ def graph_to_dict(graph):
 
     return result_dict
 
-import time
-import py_bipartite_matching as pbm
 
 start = time.time()
 cout = 0
@@ -195,17 +169,16 @@ for match in matches:
             vm[prof].add(course)
     for key, value in vm.items():
         vm[key] = sorted(value)
-    import json
-    from hashlib import sha256
+    
 
     ha = sha256(json.dumps(vm).encode())
     if ha.digest() in hash_list:
         continue
     hash_list.add(ha.digest())
     valid_matches.append(vm)
-# print(hash_list)
+
 print("number of valid matches:" + str(len(valid_matches)))
-# print(*valid_matches, sep="\n")
+
 
 best_matches = sort(valid_matches, input["prof_data"])
 json_data = json.dumps(best_matches, indent=2)
