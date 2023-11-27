@@ -1,0 +1,9206 @@
+[
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP00"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP01",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP03"
+    ]
+  },
+  {
+    "Professor 4": [
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 1": [
+      "(FD-CDC) CS FP02",
+      "(FD-CDC) CS FP03"
+    ],
+    "Professor 3": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ],
+    "Professor 2": [
+      "(FD-CDC) CS FP02"
+    ],
+    "Professor 0": [
+      "(FD-CDC) CS FP00",
+      "(FD-CDC) CS FP01"
+    ]
+  }
+]
