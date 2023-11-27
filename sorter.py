@@ -1,7 +1,5 @@
 def get_weight_sum(weights: dict, cur: dict):
-    """
-    Sorts the weights by the current weights
-    """
+   
     weight = 0
     for prof, courses in cur.items():
         for course in courses:
@@ -10,10 +8,8 @@ def get_weight_sum(weights: dict, cur: dict):
 
 
 def sort(weights, input):
-    """
-    Sorts the weights by the current weights
-    """
-    # Sort the weights by the current weights
+   
+    
     w = {}
 
     for prof, data in input.items():
