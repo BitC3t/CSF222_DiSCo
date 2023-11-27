@@ -97,8 +97,8 @@ G.add_nodes_from(
 )
 courses = len(G.nodes()) - profs
 
-if profs != courses:
-    raise Exception("Professors and courses are not equal")
+"""if profs != courses:
+    raise Exception("Professors and courses are not equal")"""
 
 labels = {}
 for node in G.nodes():
@@ -145,6 +145,38 @@ for prof, data in input["prof_data"].items():
     return maximal_matchings"""
 
 
+solution = {}
+
+def graph_to_dict(graph):
+    result_dict = {}
+
+    for node in graph.nodes():
+        successors = list(graph.successors(node))
+        result_dict[node] = successors
+
+    return result_dict
+
+def get_optimal_solution(G):
+    global solution
+    startTime = time.time()
+    matches = nx.max_weight_matching(G, maxcardinality=True)
+    matches = [matches]
+    g_match = nx.DiGraph()
+
+    for match2 in matches:     
+        for edge in match2:
+            prof = edge[1][1]
+            course = edge[0][1]
+            g_match.add_edge(prof, course)
+
+    solution = graph_to_dict(g_match)
+        
+
+    for x,y in solution.items():
+        if "Professor" in x:
+            print(x + " -> " + str(solution[x]))
+    print("time taken for optimal solution: " + str(time.time() - startTime))
+
 import time
 import py_bipartite_matching as pbm
 
@@ -152,19 +184,18 @@ start = time.time()
 file_path = "output.txt"
 cout = 0
 
-print(*G.edges(), sep="\n")
+#print(*G.edges(), sep="\n")
 
-print("starting")
+print("finding most optimal solution")
+get_optimal_solution(G)
+
+print("starting for all solutions")
 matches = []
-with open(file_path, "w") as file:
-    for matching in pbm.enum_perfect_matchings(G):
-        cout += 1
-        matches.append(matching)
-        file.write(str(matching))
-
+l = pbm.enum_maximum_matchings(G)
+print(str(len(list(l))) + " possible solutions")
+print("time for all solutions: " + str(time.time() - start))
 print("completed")
-print(str(cout) + " possible solutions")
-print(time.time() - start)
+
 
 valid_matches = list()
 hash_list = set()

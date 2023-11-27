@@ -65,7 +65,7 @@ print(x, y, z)
 def randomly_group():
     global x, y, z
     l = [0.5] * x + [1] * y + [1.5] * z
-    rand = random.sample(l, 1)
+    rand = randomly_pick(l, 1)[0]
     if rand == 0.5:
         x -= 1
         return 0.5
@@ -113,7 +113,7 @@ for prof in professors:
 
     new_data[prof] = {
         "id": getRandomUUID(),
-        "group": 1,
+        "group": randomly_group(),
         "courses": courses,
     }
 
