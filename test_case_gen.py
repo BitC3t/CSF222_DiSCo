@@ -39,9 +39,7 @@ for l in range(hd_cout):
 for m in range(hd_eout):
     hd_e.append("(HD-E) CS FS" + f"{m:02d}")
 
-# Code for generating number of individual groups
-# total = 0.5x + y + 1.5*z
-# prof = x + y + z
+
 
 
 def generate():
