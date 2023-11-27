@@ -1,0 +1,66 @@
+{
+    "Professor 0": {
+        "id": "e39d0e2f-0042-47ff-9a56-699c1e5540e0",
+        "group": 1.5,
+        "courses": {
+            "FD_CDC": {
+                "1": "(FD-CDC) CS FP00"
+            },
+            "FD_Electives": {
+                "1": "(FD-E) CS FQ00"
+            },
+            "HD_CDC": {
+                "1": "(HD-CDC) CS FR00"
+            },
+            "HD_Electives": {}
+        }
+    },
+    "Professor 1": {
+        "id": "42e8ba1b-8d3e-4a6f-83d0-a900150195de",
+        "group": 0.5,
+        "courses": {
+            "FD_CDC": {
+                "1": "(FD-CDC) CS FP00"
+            },
+            "FD_Electives": {
+                "1": "(FD-E) CS FQ00"
+            },
+            "HD_CDC": {
+                "1": "(HD-CDC) CS FR00"
+            },
+            "HD_Electives": {}
+        }
+    },
+    "Professor 2": {
+        "id": "46a74e87-c7bd-41d0-98d2-b2b7569f0323",
+        "group": 0.5,
+        "courses": {
+            "FD_CDC": {
+                "1": "(FD-CDC) CS FP00"
+            },
+            "FD_Electives": {
+                "1": "(FD-E) CS FQ00"
+            },
+            "HD_CDC": {
+                "1": "(HD-CDC) CS FR00"
+            },
+            "HD_Electives": {}
+        }
+    },
+    "Professor 3": {
+        "id": "45fc8b1b-2129-4461-a4ab-c2678c6d4f8a",
+        "group": 0.5,
+        "courses": {
+            "FD_CDC": {
+                "1": "(FD-CDC) CS FP00"
+            },
+            "FD_Electives": {
+                "1": "(FD-E) CS FQ00"
+            },
+            "HD_CDC": {
+                "1": "(HD-CDC) CS FR00"
+            },
+            "HD_Electives": {}
+        }
+    }
+}

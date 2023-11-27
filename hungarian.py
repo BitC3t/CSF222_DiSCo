@@ -6,6 +6,9 @@ hungarian.py
 """
 import networkx as nx
 import itertools
+from alive_progress import alive_bar
+import time
+import json
 
 import input_graph
 from sorter import sort
@@ -156,43 +159,25 @@ def graph_to_dict(graph):
 
     return result_dict
 
-def get_optimal_solution(G):
-    global solution
-    startTime = time.time()
-    matches = nx.max_weight_matching(G, maxcardinality=True)
-    matches = [matches]
-    g_match = nx.DiGraph()
-
-    for match2 in matches:     
-        for edge in match2:
-            prof = edge[1][1]
-            course = edge[0][1]
-            g_match.add_edge(prof, course)
-
-    solution = graph_to_dict(g_match)
-        
-
-    for x,y in solution.items():
-        if "Professor" in x:
-            print(x + " -> " + str(solution[x]))
-    print("time taken for optimal solution: " + str(time.time() - startTime))
-
 import time
 import py_bipartite_matching as pbm
 
 start = time.time()
-file_path = "output.txt"
 cout = 0
-
-#print(*G.edges(), sep="\n")
-
-print("finding most optimal solution")
-get_optimal_solution(G)
 
 print("starting for all solutions")
 matches = []
-l = pbm.enum_maximum_matchings(G)
-print(str(len(list(l))) + " possible solutions")
+
+for matching in pbm.enum_maximum_matchings(G):
+    cout += 1
+    if(cout % 10000 == 0):
+        print(str(cout) + ": done!")
+    matches.append(matching)
+    if(cout == 600000):
+        break
+
+print("completed")
+print(str(cout) + " possible solutions")
 print("time for all solutions: " + str(time.time() - start))
 print("completed")
 
@@ -220,32 +205,10 @@ for match in matches:
     hash_list.add(ha.digest())
     valid_matches.append(vm)
 # print(hash_list)
-print(len(valid_matches))
+print("number of valid matches:" + str(len(valid_matches)))
 # print(*valid_matches, sep="\n")
 
 best_matches = sort(valid_matches, input["prof_data"])
-print(best_matches)
-
-# matches = all_maximal_matchings(G)
-"""matches = nx.max_weight_matching(G, maxcardinality=True)
-# matches = nx.max_weight_matching(G)
-matches = [matches]
-for match2 in matches:
-    g_match = nx.DiGraph()
-    print("edges")
-    for edge in match2:
-        prof = edge[1][1]
-        course = edge[0][1]
-        print(prof, course)
-        g_match.add_edge(prof, course)
-    nx.draw(g_match, with_labels=True)
-    plt.show()
-
-    import json
-
-    with open("output.json", "w") as f:
-        json.dump(graph_to_json(g_match), f, indent=4)
-    print("done")"""
-
-
-# nx.draw(G, with_labels=True)
+json_data = json.dumps(best_matches, indent=2)
+with open("all_outputs.json", "w") as file:
+    file.write(json_data)

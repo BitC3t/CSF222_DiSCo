@@ -2,7 +2,7 @@ import json
 import random
 import uuid
 
-f = open("config.json")
+f = open("config/config.json")
 
 data = json.load(f)
 
