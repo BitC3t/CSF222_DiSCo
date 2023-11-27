@@ -1,9 +1,4 @@
-"""
-DISCO 2023-24
-Advik, Druva, Kushagra
 
-hungarian.py
-"""
 import networkx as nx
 import itertools
 import time
