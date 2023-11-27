@@ -1,9 +1,4 @@
-"""
-DISCO 2023-24
-Advik, Druva, Kushagra
 
-input.py
-"""
 import json
 
 f = open("input.json")
