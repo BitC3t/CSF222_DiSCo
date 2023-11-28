@@ -13,7 +13,7 @@ The project aims to compare different algorithms for course allocation within a 
 
 - This is a trivial brute-force approach to the problem where inputs are taken from an `input.json` file.
 - The script processes the input data and extracts information about professors, their groups, and course preferences.
-- All possible combinations of courses are generated, and assignments are done iteratively. 
+- All possible combinations of courses are generated, and assignments are done iteratively.
 - Details of valid assignments are stored in a JSON file.
 
 ### Hungarian Algorithm
@@ -33,8 +33,16 @@ The project aims to compare different algorithms for course allocation within a 
 - Each folder contains an `input.json` file and all the outputs of the Hungarian algorithm.
 
 
+
+## Running the Project
+- Clone the repo: `git clone https://github.com/BitC3t/CSF222_DiSCo`
+- Install requirements: `pip install -r requirements.txt`
+- Generate test cases: `python3 test_case_gen.py`: Reads from `config.json`
+- Run algo.py: `python3 algo.py`: Reads from input.json => Outputs to all_outputs.json
+
+
 ## Contributors
 
- - [BitCit](https://github.com/BitC3t) 
-- [ceres445](https://github.com/Ceres445)
-- [darthlazius](https://github.com/darthlazius)
+ - [Advik Raj Basani](https://github.com/BitC3t)
+- [Druva Dhakshinamoorthy](https://github.com/Ceres445)
+- [Kushagra Malviya](https://github.com/darthlazius)
