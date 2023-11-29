@@ -2,7 +2,7 @@
 DiSCo 2023 - 24
 Advik, Druva, Kushagra
 
-This file deals with the creation of the bipartite graph and the enumerative maximum matching in the graph.
+This file deals with the creation of the bipartite graph and the enumerative perfect matching in the graph.
 """
 
 import networkx as nx
@@ -159,7 +159,6 @@ G.add_nodes_from(
 
 # Get the total number of course nodes
 courses = len(G.nodes()) - profs
-
 if profs != courses:
     raise Exception("Error: The grouping for professors in invalid; the total number of courses the professors can take does not match the number of courses given!")
 
@@ -177,7 +176,7 @@ for prof, data in input["prof_data"].items():
         for i, course in enumerate(courses):
             prof_nodes = labels[prof]
             course_nodes = labels[course]
-            G.add_edges_from(itertools.product(prof_nodes, course_nodes), weight=4 - i)
+            G.add_edges_from(itertools.product(prof_nodes, course_nodes), weight= len(courses)- i)
 
 # Dictionary to store matching solutions
 solution = {}
@@ -186,17 +185,15 @@ solution = {}
 start = time.time()
 cout = 0
 
-print("Starting enumeration of all solutions")
+print("Starting enumeration of all solutions [limiting to 600,000 perfect generations]")
 
-# List to store all maximum matchings in the bipartite graph
+# List to store all perfect matchings in the bipartite graph
 matches = []
 
-# Enumerate all maximum matchings in the graph using the provided module
+# Enumerate all perfect matchings in the graph using the provided module
 with alive_bar(600000, theme="scuba") as bar:
-    for matching in pbm.enum_maximum_matchings(G):
+    for matching in pbm.enum_perfect_matchings(G):
         cout += 1
-        if cout % 10000 == 0:
-            print(str(cout) + ": done!")
         matches.append(matching)
         if cout == 600000:
             break

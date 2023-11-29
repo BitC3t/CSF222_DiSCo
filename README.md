@@ -22,7 +22,7 @@ The project aims to compare different algorithms for course allocation within a 
 - The `networkx` library is used to create a bipartite graph with two sets of nodes: professors and courses. Professors are divided into three groups based on the courses they can take per semester.
 - Based on the grouping of each professor, they are made as multiple nodes (1 if grouping is 0.5, 2 if grouping is 1, 3 if grouping is 1.5) to satisfy constraints.
 - Edges with weights are added between professors and courses, forming a complete bipartite graph. 
-- The algorithm is then run to find all possible maximum matchings (via enumerations), stored in a matches list.
+- The algorithm is then run to find all possible perfect matchings (via enumerations), stored in a matches list.
 - A check for duplicate solutions is performed using hash functions. Valid matches are stored in a `valid_matches` list, sorted to determine the best possible solution.
 - All outputs are stored in an `all_output.json` file.
 

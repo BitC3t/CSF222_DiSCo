@@ -1,7 +1,7 @@
 {
     "Professor 0": {
-        "id": "e39d0e2f-0042-47ff-9a56-699c1e5540e0",
-        "group": 1.5,
+        "id": "61394bf7-e213-4576-b266-10bd09463dc2",
+        "group": 0.5,
         "courses": {
             "FD_CDC": {
                 "1": "(FD-CDC) CS FP00"
@@ -16,7 +16,7 @@
         }
     },
     "Professor 1": {
-        "id": "42e8ba1b-8d3e-4a6f-83d0-a900150195de",
+        "id": "e0534330-9f01-44d2-8954-27729d303dfa",
         "group": 0.5,
         "courses": {
             "FD_CDC": {
@@ -32,8 +32,8 @@
         }
     },
     "Professor 2": {
-        "id": "46a74e87-c7bd-41d0-98d2-b2b7569f0323",
-        "group": 0.5,
+        "id": "fb047c8b-1f43-46de-b7e8-696bedf5e625",
+        "group": 1.5,
         "courses": {
             "FD_CDC": {
                 "1": "(FD-CDC) CS FP00"
@@ -48,7 +48,7 @@
         }
     },
     "Professor 3": {
-        "id": "45fc8b1b-2129-4461-a4ab-c2678c6d4f8a",
+        "id": "48d36832-1e99-4e65-a3ad-3f082f2ec9e7",
         "group": 0.5,
         "courses": {
             "FD_CDC": {
