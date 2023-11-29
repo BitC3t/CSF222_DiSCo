@@ -160,6 +160,9 @@ G.add_nodes_from(
 # Get the total number of course nodes
 courses = len(G.nodes()) - profs
 
+if profs != courses:
+    raise Exception("Error: Number of professors and courses do not match")
+
 # Create labels for nodes
 labels = {}
 for node in G.nodes():
