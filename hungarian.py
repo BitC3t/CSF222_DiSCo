@@ -13,6 +13,8 @@ import input_graph
 import py_bipartite_matching as pbm
 from sorter import sort
 from hashlib import sha256
+from alive_progress import alive_bar
+
 
 # Function to convert the graph to a dictionary
 def graph_to_dict(graph):
@@ -33,6 +35,7 @@ def graph_to_dict(graph):
 
     return result_dict
 
+
 # Function to plot a bipartite graph
 def plotGraph(graph, ax, title):
     """
@@ -48,6 +51,7 @@ def plotGraph(graph, ax, title):
     nx.draw(graph, pos=pos_dict, ax=ax, with_labels=True)
     ax.set_title(title)
     return
+
 
 # Function to convert bipartite graph to JSON format
 def graph_to_json(G):
@@ -90,6 +94,7 @@ def graph_to_json(G):
         json_data["prof_data"][prof].insert(0, data[0])
 
     return json_data
+
 
 # Load input data from a separate module
 input = input_graph.get_data()
@@ -184,13 +189,15 @@ print("Starting enumeration of all solutions")
 matches = []
 
 # Enumerate all maximum matchings in the graph using the provided module
-for matching in pbm.enum_maximum_matchings(G):
-    cout += 1
-    if cout % 10000 == 0:
-        print(str(cout) + ": done!")
-    matches.append(matching)
-    if cout == 600000:
-        break
+with alive_bar(600000, theme="scuba") as bar:
+    for matching in pbm.enum_maximum_matchings(G):
+        cout += 1
+        if cout % 10000 == 0:
+            print(str(cout) + ": done!")
+        matches.append(matching)
+        if cout == 600000:
+            break
+        bar()
 
 print("Enumeration completed")
 print(str(cout) + " possible solutions")
