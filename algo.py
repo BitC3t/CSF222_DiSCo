@@ -161,7 +161,7 @@ G.add_nodes_from(
 courses = len(G.nodes()) - profs
 
 if profs != courses:
-    raise Exception("Error: Number of professors and courses do not match")
+    raise Exception("Error: The grouping for professors in invalid; the total number of courses the professors can take does not match the number of courses given!")
 
 # Create labels for nodes
 labels = {}
