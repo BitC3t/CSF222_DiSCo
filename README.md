@@ -24,7 +24,7 @@ The project aims to compare different algorithms for course allocation within a 
 - Edges with weights are added between professors and courses, forming a complete bipartite graph. 
 - The algorithm is then run to find all possible perfect matchings (via enumerations), stored in a matches list.
 - A check for duplicate solutions is performed using hash functions. Valid matches are stored in a `valid_matches` list, sorted to determine the best possible solution.
-- All outputs are stored in an `all_output.json` file.
+- All outputs are stored in an `all_outputs.json` file. This json file will be fully sorted based on the preferences of the professors, via our custom weight sorter. The first solution will always be the most optimized one.
 
 ## Test Cases and Results
 

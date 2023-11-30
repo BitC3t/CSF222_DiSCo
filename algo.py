@@ -195,9 +195,9 @@ with alive_bar(600000, theme="scuba") as bar:
     for matching in pbm.enum_perfect_matchings(G):
         cout += 1
         matches.append(matching)
+        bar()
         if cout == 600000:
             break
-        bar()
 
 print("Enumeration completed")
 print(str(cout) + " possible solutions")
