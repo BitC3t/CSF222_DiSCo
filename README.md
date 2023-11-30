@@ -1,7 +1,7 @@
 # CSF222_DiSCo
 
 
-# Optimization of Unversity Course Allocation
+# Optimization of University Course Allocation
 
 ## Description
 
@@ -37,7 +37,7 @@ The project aims to compare different algorithms for course allocation within a 
 ## Running the Project
 - Clone the repo: `git clone https://github.com/BitC3t/CSF222_DiSCo`
 - Install requirements: `pip install -r requirements.txt`
-- Change the `config.json` in the `config` folder: you can change the number of professors, number of CDCs & electives (for both FD and HD), this will help our test case generator create a valid test case for running the algorithm.
+- Change the `config.json` in the `config` folder: you can change the number of professors, number of CDCs & electives (for both FD and HD), this will help our test case generator create a valid test case for running the algorithm. Do note that the `total` variable in the file MUST be the sum of all courses (ie total must be 30, if there are 10 FD_CDCs, 10 HD_CDCs, 5 FD_Electives, 5 HD_Electives). `fd_c` represents FD CDCs; `fd_e` represents FD Electives; `hd_c` represents HD CDCs; `hd_e` represents HD Electives.
 - Generate test cases: `python3 test_case_gen.py`: Reads from `config.json`
 - Run algo.py: `python3 algo.py`: Reads from input.json => Outputs to all_outputs.json
 
