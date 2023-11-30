@@ -1,11 +1,11 @@
 # CSF222_DiSCo
 
 
-# Optimization of University Course Allocation
+# Optimizing University Course Assignments through Adaptive Perfect Matching
 
 ## Description
 
-The project aims to compare different algorithms for course allocation within a university. Two approaches, the Hungarian Algorithm and a Brute-force method, are implemented.
+This project serves to be a scalable and adaptive framework for the CS F222 assignment. The project aims to optimize the assignment of courses to professors using an adaptive perfect matching algorithm, while comparing different algorithms for course allocation within a university. Two approaches, the Hungarian Algorithm and a Brute-force method, are implemented.
 
 ## Implementation
 
@@ -33,6 +33,9 @@ The project aims to compare different algorithms for course allocation within a 
 - Seven test cases are provided in the repository in the `test_cases` folder.
 - Each folder contains an `input.json` file and all the outputs of the Hungarian algorithm.
 - Our algorithm further tests for crash cases and follows through with `Exception`s due to invalid groupings or such.
+
+## Documentation
+Our research paper / project paper can be found in the `/docs/` folder -> `DiSCo_Project.pdf`. This pdf is comprehensive and covers the use and implementation of our algorithm. Our working video is also in the same folder, labelled as `disco-final.mp4`.
 
 ## Running the Project
 - Clone the repo: `git clone https://github.com/BitC3t/CSF222_DiSCo`
