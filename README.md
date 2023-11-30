@@ -47,3 +47,5 @@ The project aims to compare different algorithms for course allocation within a 
 - [Advik Raj Basani](https://github.com/BitC3t)
 - [Druva Dhakshinamoorthy](https://github.com/Ceres445)
 - [Kushagra Malviya](https://github.com/darthlazius)
+
+Contact via email - f20221155@goa.bits-pilani.ac.in
