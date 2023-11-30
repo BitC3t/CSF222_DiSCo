@@ -37,6 +37,8 @@ This project serves to be a scalable and adaptive framework for the CS F222 assi
 ## Documentation
 Our research paper / project paper can be found in the `/docs/` folder -> `DiSCo_Project.pdf`. This pdf is comprehensive and covers the use and implementation of our algorithm. Our working video is also in the same folder, labelled as `disco-final.mp4`.
 
+Since this video may be too big, you can also watch it here: https://youtu.be/1iAyMyAltlY
+
 ## Running the Project
 - Clone the repo: `git clone https://github.com/BitC3t/CSF222_DiSCo`
 - Install requirements: `pip install -r requirements.txt`
